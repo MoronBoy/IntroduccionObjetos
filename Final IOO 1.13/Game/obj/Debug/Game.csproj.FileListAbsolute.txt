@@ -1,0 +1,153 @@
+C:\Users\alu801.LABS.000.001.002.003\Downloads\1er Parcial IOO\Game\bin\Debug\Engine.dll
+C:\Users\alu801.LABS.000.001.002.003\Downloads\1er Parcial IOO\Game\bin\Debug\ship.png
+C:\Users\alu801.LABS.000.001.002.003\Downloads\1er Parcial IOO\Game\bin\Debug\Game.exe
+C:\Users\alu801.LABS.000.001.002.003\Downloads\1er Parcial IOO\Game\bin\Debug\Game.pdb
+C:\Users\alu801.LABS.000.001.002.003\Downloads\1er Parcial IOO\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\alu801.LABS.000.001.002.003\Downloads\1er Parcial IOO\Game\obj\Debug\Game.exe
+C:\Users\alu801.LABS.000.001.002.003\Downloads\1er Parcial IOO\Game\obj\Debug\Game.pdb
+C:\Users\drako\OneDrive - Fundación UADE\Documentos\UADE\Introducción a la Orientación a Objetos\1er Parcial IOO - Agustín Portas\1er Parcial IOO 1.1\Game\bin\Debug\Engine.dll
+C:\Users\drako\OneDrive - Fundación UADE\Documentos\UADE\Introducción a la Orientación a Objetos\1er Parcial IOO - Agustín Portas\1er Parcial IOO 1.1\Game\bin\Debug\ship.png
+C:\Users\drako\OneDrive - Fundación UADE\Documentos\UADE\Introducción a la Orientación a Objetos\1er Parcial IOO - Agustín Portas\1er Parcial IOO 1.1\Game\bin\Debug\Game.exe
+C:\Users\drako\OneDrive - Fundación UADE\Documentos\UADE\Introducción a la Orientación a Objetos\1er Parcial IOO - Agustín Portas\1er Parcial IOO 1.1\Game\bin\Debug\Game.pdb
+C:\Users\drako\OneDrive - Fundación UADE\Documentos\UADE\Introducción a la Orientación a Objetos\1er Parcial IOO - Agustín Portas\1er Parcial IOO 1.1\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\drako\OneDrive - Fundación UADE\Documentos\UADE\Introducción a la Orientación a Objetos\1er Parcial IOO - Agustín Portas\1er Parcial IOO 1.1\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\drako\OneDrive - Fundación UADE\Documentos\UADE\Introducción a la Orientación a Objetos\1er Parcial IOO - Agustín Portas\1er Parcial IOO 1.1\Game\obj\Debug\Game.exe
+C:\Users\drako\OneDrive - Fundación UADE\Documentos\UADE\Introducción a la Orientación a Objetos\1er Parcial IOO - Agustín Portas\1er Parcial IOO 1.1\Game\obj\Debug\Game.pdb
+C:\Users\drako\OneDrive - Fundación UADE\Documentos\UADE\Introducción a la Orientación a Objetos\1er Parcial IOO - Agustín Portas\1er Parcial IOO 1.1\Game\bin\Debug\Sky.png
+C:\Users\alu801.LABS\Downloads\1er Parcial IOO - Agustín Portas\1er Parcial IOO - Agustín Portas\1er Parcial IOO 1.1\Game\obj\Debug\Game.exe
+C:\Users\alu801.LABS\Downloads\1er Parcial IOO - Agustín Portas\1er Parcial IOO - Agustín Portas\1er Parcial IOO 1.1\Game\obj\Debug\Game.pdb
+C:\Users\alu801.LABS\Downloads\1er Parcial IOO - Agustín Portas\1er Parcial IOO - Agustín Portas\1er Parcial IOO 1.1\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\alu801.LABS\Downloads\1er Parcial IOO - Agustín Portas\1er Parcial IOO - Agustín Portas\1er Parcial IOO 1.1\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\alu801.LABS\Downloads\1er Parcial IOO - Agustín Portas\1er Parcial IOO - Agustín Portas\1er Parcial IOO 1.1\Game\bin\Debug\Engine.dll
+C:\Users\alu801.LABS\Downloads\1er Parcial IOO - Agustín Portas\1er Parcial IOO - Agustín Portas\1er Parcial IOO 1.1\Game\bin\Debug\Texturas\Botones\Button_YesPress.png
+C:\Users\alu801.LABS\Downloads\1er Parcial IOO - Agustín Portas\1er Parcial IOO - Agustín Portas\1er Parcial IOO 1.1\Game\bin\Debug\Texturas\Botones\Exit_Button (border).png
+C:\Users\alu801.LABS\Downloads\1er Parcial IOO - Agustín Portas\1er Parcial IOO - Agustín Portas\1er Parcial IOO 1.1\Game\bin\Debug\Texturas\Botones\Load_Button (border).png
+C:\Users\alu801.LABS\Downloads\1er Parcial IOO - Agustín Portas\1er Parcial IOO - Agustín Portas\1er Parcial IOO 1.1\Game\bin\Debug\Texturas\Botones\Return_Button (border).png
+C:\Users\alu801.LABS\Downloads\1er Parcial IOO - Agustín Portas\1er Parcial IOO - Agustín Portas\1er Parcial IOO 1.1\Game\bin\Debug\Texturas\Botones\Start_Button (border).png
+C:\Users\alu801.LABS\Downloads\1er Parcial IOO - Agustín Portas\1er Parcial IOO - Agustín Portas\1er Parcial IOO 1.1\Game\bin\Debug\Texturas\Menus\LoseMenu.png
+C:\Users\alu801.LABS\Downloads\1er Parcial IOO - Agustín Portas\1er Parcial IOO - Agustín Portas\1er Parcial IOO 1.1\Game\bin\Debug\Texturas\Menus\MainMenu.png
+C:\Users\alu801.LABS\Downloads\1er Parcial IOO - Agustín Portas\1er Parcial IOO - Agustín Portas\1er Parcial IOO 1.1\Game\bin\Debug\Texturas\Menus\WinMenu.png
+C:\Users\alu801.LABS\Downloads\1er Parcial IOO - Agustín Portas\1er Parcial IOO - Agustín Portas\1er Parcial IOO 1.1\Game\bin\Debug\Texturas\ship.png
+C:\Users\alu801.LABS\Downloads\1er Parcial IOO - Agustín Portas\1er Parcial IOO - Agustín Portas\1er Parcial IOO 1.1\Game\bin\Debug\Texturas\Tilemaps\Sky.png
+C:\Users\alu801.LABS\Downloads\1er Parcial IOO - Agustín Portas\1er Parcial IOO - Agustín Portas\1er Parcial IOO 1.1\Game\bin\Debug\Game.exe
+C:\Users\alu801.LABS\Downloads\1er Parcial IOO - Agustín Portas\1er Parcial IOO - Agustín Portas\1er Parcial IOO 1.1\Game\bin\Debug\Game.pdb
+D:\1er Parcial IOO 1.3 (entregado)\Game\obj\Debug\Game.exe
+D:\1er Parcial IOO 1.3 (entregado)\Game\obj\Debug\Game.pdb
+D:\1er Parcial IOO 1.3 (entregado) - copia\Game\obj\Debug\Game.exe
+D:\1er Parcial IOO 1.3 (entregado) - copia\Game\obj\Debug\Game.pdb
+D:\1er Parcial IOO 1.3 (entregado) - copia\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\alu801\Downloads\Nico\1er Parcial IOO 1.5\Game\obj\Debug\Game.exe
+C:\Users\alu801\Downloads\Nico\1er Parcial IOO 1.5\Game\obj\Debug\Game.pdb
+C:\Users\alu801\Downloads\Nico\1er Parcial IOO 1.5\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\alu801\Downloads\Nico\1er Parcial IOO 1.5\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\alu801\Downloads\Nico\1er Parcial IOO 1.5\Game\bin\Debug\Engine.dll
+C:\Users\alu801\Downloads\Nico\1er Parcial IOO 1.5\Game\bin\Debug\Texturas\Botones\Button_YesPress.png
+C:\Users\alu801\Downloads\Nico\1er Parcial IOO 1.5\Game\bin\Debug\Texturas\Botones\Exit_Button (border).png
+C:\Users\alu801\Downloads\Nico\1er Parcial IOO 1.5\Game\bin\Debug\Texturas\Botones\Load_Button (border).png
+C:\Users\alu801\Downloads\Nico\1er Parcial IOO 1.5\Game\bin\Debug\Texturas\Botones\Return_Button (border).png
+C:\Users\alu801\Downloads\Nico\1er Parcial IOO 1.5\Game\bin\Debug\Texturas\Botones\Start_Button (border).png
+C:\Users\alu801\Downloads\Nico\1er Parcial IOO 1.5\Game\bin\Debug\Texturas\Menus\LoseMenu.png
+C:\Users\alu801\Downloads\Nico\1er Parcial IOO 1.5\Game\bin\Debug\Texturas\Menus\MainMenu.png
+C:\Users\alu801\Downloads\Nico\1er Parcial IOO 1.5\Game\bin\Debug\Texturas\Menus\WinMenu.png
+C:\Users\alu801\Downloads\Nico\1er Parcial IOO 1.5\Game\bin\Debug\Texturas\ship.png
+C:\Users\alu801\Downloads\Nico\1er Parcial IOO 1.5\Game\bin\Debug\Texturas\Tilemaps\Sky.png
+C:\Users\alu801\Downloads\Nico\1er Parcial IOO 1.5\Game\bin\Debug\Game.exe
+C:\Users\alu801\Downloads\Nico\1er Parcial IOO 1.5\Game\bin\Debug\Game.pdb
+C:\Users\alu801.LABS.000.001.002.003.004.005.006.007\Downloads\1er Parcial IOO 1.5\Game\obj\Debug\Game.exe
+C:\Users\alu801.LABS.000.001.002.003.004.005.006.007\Downloads\1er Parcial IOO 1.5\Game\obj\Debug\Game.pdb
+C:\Users\alu801.LABS.000.001.002.003.004.005.006.007\Downloads\1er Parcial IOO 1.5\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\alu801.LABS.000.001.002.003.004.005.006.007\Downloads\1er Parcial IOO 1.5\Game\bin\Debug\Engine.dll
+C:\Users\alu801.LABS.000.001.002.003.004.005.006.007\Downloads\1er Parcial IOO 1.5\Game\bin\Debug\Texturas\Botones\Button_YesPress.png
+C:\Users\alu801.LABS.000.001.002.003.004.005.006.007\Downloads\1er Parcial IOO 1.5\Game\bin\Debug\Texturas\Botones\Exit_Button (border).png
+C:\Users\alu801.LABS.000.001.002.003.004.005.006.007\Downloads\1er Parcial IOO 1.5\Game\bin\Debug\Texturas\Botones\Load_Button (border).png
+C:\Users\alu801.LABS.000.001.002.003.004.005.006.007\Downloads\1er Parcial IOO 1.5\Game\bin\Debug\Texturas\Botones\Return_Button (border).png
+C:\Users\alu801.LABS.000.001.002.003.004.005.006.007\Downloads\1er Parcial IOO 1.5\Game\bin\Debug\Texturas\Botones\Start_Button (border).png
+C:\Users\alu801.LABS.000.001.002.003.004.005.006.007\Downloads\1er Parcial IOO 1.5\Game\bin\Debug\Texturas\Menus\LoseMenu.png
+C:\Users\alu801.LABS.000.001.002.003.004.005.006.007\Downloads\1er Parcial IOO 1.5\Game\bin\Debug\Texturas\Menus\MainMenu.png
+C:\Users\alu801.LABS.000.001.002.003.004.005.006.007\Downloads\1er Parcial IOO 1.5\Game\bin\Debug\Texturas\Menus\WinMenu.png
+C:\Users\alu801.LABS.000.001.002.003.004.005.006.007\Downloads\1er Parcial IOO 1.5\Game\bin\Debug\Texturas\ship.png
+C:\Users\alu801.LABS.000.001.002.003.004.005.006.007\Downloads\1er Parcial IOO 1.5\Game\bin\Debug\Texturas\Tilemaps\Sky.png
+C:\Users\alu801.LABS.000.001.002.003.004.005.006.007\Downloads\1er Parcial IOO 1.5\Game\bin\Debug\Game.exe
+C:\Users\alu801.LABS.000.001.002.003.004.005.006.007\Downloads\1er Parcial IOO 1.5\Game\bin\Debug\Game.pdb
+C:\Users\alu801.LABS.000.001.002.003.004.005.006.007.008\Downloads\1er Parcial IOO 1.7\Game\obj\Debug\Game.exe
+C:\Users\alu801.LABS.000.001.002.003.004.005.006.007.008\Downloads\1er Parcial IOO 1.7\Game\obj\Debug\Game.pdb
+C:\Users\alu801.LABS.000.001.002.003.004.005.006.007.008\Downloads\1er Parcial IOO 1.7\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\alu801.LABS.000.001.002.003.004.005.006\Downloads\2do Parcial IOO 1.8\Game\obj\Debug\Game.exe
+C:\Users\alu801.LABS.000.001.002.003.004.005.006\Downloads\2do Parcial IOO 1.8\Game\obj\Debug\Game.pdb
+C:\Users\drako\OneDrive - Fundación UADE\Documentos\UADE\Introducción a la Orientación a Objetos\2do Parcial IOO 1.9\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\drako\OneDrive - Fundación UADE\Documentos\UADE\Introducción a la Orientación a Objetos\2do Parcial IOO 1.9\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\drako\OneDrive - Fundación UADE\Documentos\UADE\Introducción a la Orientación a Objetos\2do Parcial IOO 1.9\Game\obj\Debug\Game.exe
+C:\Users\drako\OneDrive - Fundación UADE\Documentos\UADE\Introducción a la Orientación a Objetos\2do Parcial IOO 1.9\Game\obj\Debug\Game.pdb
+C:\Users\drako\OneDrive - Fundación UADE\Documentos\UADE\Introducción a la Orientación a Objetos\2do Parcial IOO 1.9\Game\bin\Debug\Engine.dll
+C:\Users\drako\OneDrive - Fundación UADE\Documentos\UADE\Introducción a la Orientación a Objetos\2do Parcial IOO 1.9\Game\bin\Debug\Texturas\Botones\Button_YesPress.png
+C:\Users\drako\OneDrive - Fundación UADE\Documentos\UADE\Introducción a la Orientación a Objetos\2do Parcial IOO 1.9\Game\bin\Debug\Texturas\Botones\Exit_Button (border).png
+C:\Users\drako\OneDrive - Fundación UADE\Documentos\UADE\Introducción a la Orientación a Objetos\2do Parcial IOO 1.9\Game\bin\Debug\Texturas\Botones\Load_Button (border).png
+C:\Users\drako\OneDrive - Fundación UADE\Documentos\UADE\Introducción a la Orientación a Objetos\2do Parcial IOO 1.9\Game\bin\Debug\Texturas\Botones\Return_Button (border).png
+C:\Users\drako\OneDrive - Fundación UADE\Documentos\UADE\Introducción a la Orientación a Objetos\2do Parcial IOO 1.9\Game\bin\Debug\Texturas\Botones\Start_Button (border).png
+C:\Users\drako\OneDrive - Fundación UADE\Documentos\UADE\Introducción a la Orientación a Objetos\2do Parcial IOO 1.9\Game\bin\Debug\Texturas\Menus\LoseMenu.png
+C:\Users\drako\OneDrive - Fundación UADE\Documentos\UADE\Introducción a la Orientación a Objetos\2do Parcial IOO 1.9\Game\bin\Debug\Texturas\Menus\MainMenu.png
+C:\Users\drako\OneDrive - Fundación UADE\Documentos\UADE\Introducción a la Orientación a Objetos\2do Parcial IOO 1.9\Game\bin\Debug\Texturas\Menus\WinMenu.png
+C:\Users\drako\OneDrive - Fundación UADE\Documentos\UADE\Introducción a la Orientación a Objetos\2do Parcial IOO 1.9\Game\bin\Debug\Texturas\ship.png
+C:\Users\drako\OneDrive - Fundación UADE\Documentos\UADE\Introducción a la Orientación a Objetos\2do Parcial IOO 1.9\Game\bin\Debug\Texturas\Tilemaps\Sky.png
+C:\Users\drako\OneDrive - Fundación UADE\Documentos\UADE\Introducción a la Orientación a Objetos\2do Parcial IOO 1.9\Game\bin\Debug\Game.exe
+C:\Users\drako\OneDrive - Fundación UADE\Documentos\UADE\Introducción a la Orientación a Objetos\2do Parcial IOO 1.9\Game\bin\Debug\Game.pdb
+C:\Users\alu801.LABS.000.001.002.003.004.005.006\Downloads\2do Parcial IOO 1.10\Game\obj\Debug\Game.exe
+C:\Users\alu801.LABS.000.001.002.003.004.005.006\Downloads\2do Parcial IOO 1.10\Game\obj\Debug\Game.pdb
+C:\Users\alu801.LABS.000.001.002.003.004.005.006\Downloads\2do Parcial IOO 1.10\Game\bin\Debug\Engine.dll
+C:\Users\alu801.LABS.000.001.002.003.004.005.006\Downloads\2do Parcial IOO 1.10\Game\bin\Debug\Texturas\Botones\Button_YesPress.png
+C:\Users\alu801.LABS.000.001.002.003.004.005.006\Downloads\2do Parcial IOO 1.10\Game\bin\Debug\Texturas\Botones\Exit_Button (border).png
+C:\Users\alu801.LABS.000.001.002.003.004.005.006\Downloads\2do Parcial IOO 1.10\Game\bin\Debug\Texturas\Botones\Load_Button (border).png
+C:\Users\alu801.LABS.000.001.002.003.004.005.006\Downloads\2do Parcial IOO 1.10\Game\bin\Debug\Texturas\Botones\Return_Button (border).png
+C:\Users\alu801.LABS.000.001.002.003.004.005.006\Downloads\2do Parcial IOO 1.10\Game\bin\Debug\Texturas\Botones\Start_Button (border).png
+C:\Users\alu801.LABS.000.001.002.003.004.005.006\Downloads\2do Parcial IOO 1.10\Game\bin\Debug\Texturas\Menus\LoseMenu.png
+C:\Users\alu801.LABS.000.001.002.003.004.005.006\Downloads\2do Parcial IOO 1.10\Game\bin\Debug\Texturas\Menus\MainMenu.png
+C:\Users\alu801.LABS.000.001.002.003.004.005.006\Downloads\2do Parcial IOO 1.10\Game\bin\Debug\Texturas\Menus\WinMenu.png
+C:\Users\alu801.LABS.000.001.002.003.004.005.006\Downloads\2do Parcial IOO 1.10\Game\bin\Debug\Texturas\ship.png
+C:\Users\alu801.LABS.000.001.002.003.004.005.006\Downloads\2do Parcial IOO 1.10\Game\bin\Debug\Texturas\Tilemaps\Sky.png
+C:\Users\alu801.LABS.000.001.002.003.004.005.006\Downloads\2do Parcial IOO 1.10\Game\bin\Debug\Game.exe
+C:\Users\alu801.LABS.000.001.002.003.004.005.006\Downloads\2do Parcial IOO 1.10\Game\bin\Debug\Game.pdb
+C:\Users\alu801.LABS.000.001.002.003.004.005.006\Downloads\2do Parcial IOO 1.10\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\drako\OneDrive - Fundación UADE\Documentos\UADE\Introducción a la Orientación a Objetos\Final IOO 1.12\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\drako\OneDrive - Fundación UADE\Documentos\UADE\Introducción a la Orientación a Objetos\Final IOO 1.12\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\drako\OneDrive - Fundación UADE\Documentos\UADE\Introducción a la Orientación a Objetos\Final IOO 1.12\Game\obj\Debug\Game.exe
+C:\Users\drako\OneDrive - Fundación UADE\Documentos\UADE\Introducción a la Orientación a Objetos\Final IOO 1.12\Game\obj\Debug\Game.pdb
+C:\Users\drako\OneDrive - Fundación UADE\Documentos\UADE\Introducción a la Orientación a Objetos\Final IOO 1.13\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\drako\OneDrive - Fundación UADE\Documentos\UADE\Introducción a la Orientación a Objetos\Final IOO 1.13\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\drako\OneDrive - Fundación UADE\Documentos\UADE\Introducción a la Orientación a Objetos\Final IOO 1.13\Game\obj\Debug\Game.exe
+C:\Users\drako\OneDrive - Fundación UADE\Documentos\UADE\Introducción a la Orientación a Objetos\Final IOO 1.13\Game\obj\Debug\Game.pdb
+C:\Users\drako\OneDrive - Fundación UADE\Documentos\UADE\Introducción a la Orientación a Objetos\Final IOO 1.13\Game\bin\Debug\Engine.dll
+C:\Users\drako\OneDrive - Fundación UADE\Documentos\UADE\Introducción a la Orientación a Objetos\Final IOO 1.13\Game\bin\Debug\Texturas\Botones\Button_YesPress.png
+C:\Users\drako\OneDrive - Fundación UADE\Documentos\UADE\Introducción a la Orientación a Objetos\Final IOO 1.13\Game\bin\Debug\Texturas\Botones\Exit_Button (border).png
+C:\Users\drako\OneDrive - Fundación UADE\Documentos\UADE\Introducción a la Orientación a Objetos\Final IOO 1.13\Game\bin\Debug\Texturas\Botones\Load_Button (border).png
+C:\Users\drako\OneDrive - Fundación UADE\Documentos\UADE\Introducción a la Orientación a Objetos\Final IOO 1.13\Game\bin\Debug\Texturas\Botones\Return_Button (border).png
+C:\Users\drako\OneDrive - Fundación UADE\Documentos\UADE\Introducción a la Orientación a Objetos\Final IOO 1.13\Game\bin\Debug\Texturas\Botones\Start_Button (border).png
+C:\Users\drako\OneDrive - Fundación UADE\Documentos\UADE\Introducción a la Orientación a Objetos\Final IOO 1.13\Game\bin\Debug\Texturas\Menus\LoseMenu.png
+C:\Users\drako\OneDrive - Fundación UADE\Documentos\UADE\Introducción a la Orientación a Objetos\Final IOO 1.13\Game\bin\Debug\Texturas\Menus\MainMenu.png
+C:\Users\drako\OneDrive - Fundación UADE\Documentos\UADE\Introducción a la Orientación a Objetos\Final IOO 1.13\Game\bin\Debug\Texturas\Menus\WinMenu.png
+C:\Users\drako\OneDrive - Fundación UADE\Documentos\UADE\Introducción a la Orientación a Objetos\Final IOO 1.13\Game\bin\Debug\Texturas\ship.png
+C:\Users\drako\OneDrive - Fundación UADE\Documentos\UADE\Introducción a la Orientación a Objetos\Final IOO 1.13\Game\bin\Debug\Texturas\Tilemaps\Sky.png
+C:\Users\drako\OneDrive - Fundación UADE\Documentos\UADE\Introducción a la Orientación a Objetos\Final IOO 1.13\Game\bin\Debug\Game.exe
+C:\Users\drako\OneDrive - Fundación UADE\Documentos\UADE\Introducción a la Orientación a Objetos\Final IOO 1.13\Game\bin\Debug\Game.pdb
+C:\Users\drako\OneDrive - Fundación UADE\Documentos\UADE\Introducción a la Orientación a Objetos\Final IOO 1.13\Game\bin\Debug\Texturas\Tilemaps\Wall.png
+C:\Users\drako\OneDrive - Fundación UADE\Documentos\UADE\Introducción a la Orientación a Objetos\Final IOO 1.13\Game\bin\Debug\Texturas\Tilemaps\Floor.png
+C:\Users\Manu\Desktop\Final_IOO_1.13\Final IOO 1.13\Game\bin\Debug\Engine.dll
+C:\Users\Manu\Desktop\Final_IOO_1.13\Final IOO 1.13\Game\bin\Debug\Texturas\Botones\Button_YesPress.png
+C:\Users\Manu\Desktop\Final_IOO_1.13\Final IOO 1.13\Game\bin\Debug\Texturas\Botones\Exit_Button (border).png
+C:\Users\Manu\Desktop\Final_IOO_1.13\Final IOO 1.13\Game\bin\Debug\Texturas\Botones\Load_Button (border).png
+C:\Users\Manu\Desktop\Final_IOO_1.13\Final IOO 1.13\Game\bin\Debug\Texturas\Botones\Return_Button (border).png
+C:\Users\Manu\Desktop\Final_IOO_1.13\Final IOO 1.13\Game\bin\Debug\Texturas\Botones\Start_Button (border).png
+C:\Users\Manu\Desktop\Final_IOO_1.13\Final IOO 1.13\Game\bin\Debug\Texturas\Menus\LoseMenu.png
+C:\Users\Manu\Desktop\Final_IOO_1.13\Final IOO 1.13\Game\bin\Debug\Texturas\Menus\MainMenu.png
+C:\Users\Manu\Desktop\Final_IOO_1.13\Final IOO 1.13\Game\bin\Debug\Texturas\Menus\WinMenu.png
+C:\Users\Manu\Desktop\Final_IOO_1.13\Final IOO 1.13\Game\bin\Debug\Texturas\ship.png
+C:\Users\Manu\Desktop\Final_IOO_1.13\Final IOO 1.13\Game\bin\Debug\Game.exe
+C:\Users\Manu\Desktop\Final_IOO_1.13\Final IOO 1.13\Game\bin\Debug\Game.pdb
+C:\Users\Manu\Desktop\Final_IOO_1.13\Final IOO 1.13\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\Manu\Desktop\Final_IOO_1.13\Final IOO 1.13\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Manu\Desktop\Final_IOO_1.13\Final IOO 1.13\Game\obj\Debug\Game.exe
+C:\Users\Manu\Desktop\Final_IOO_1.13\Final IOO 1.13\Game\obj\Debug\Game.pdb
+C:\Users\Manu\Desktop\Final_IOO_1.13\Final IOO 1.13\Game\bin\Debug\Texturas\player.png
+C:\Users\Manu\Desktop\Final_IOO_1.13\Final IOO 1.13\Game\bin\Debug\Texturas\box1.png
+C:\Users\Manu\Desktop\Final_IOO_1.13\Final IOO 1.13\Game\bin\Debug\Texturas\box2.png
+C:\Users\Manu\Desktop\Final_IOO_1.13\Final IOO 1.13\Game\bin\Debug\Texturas\box3.png
+C:\Users\Manu\Desktop\Final_IOO_1.13\Final IOO 1.13\Game\bin\Debug\Texturas\backgroundLvl.png
